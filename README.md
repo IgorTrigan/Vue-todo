@@ -1,4 +1,4 @@
-# todo-test
+# Vue.JS todo-app
 
 ## Project setup
 ```
